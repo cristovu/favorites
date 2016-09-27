@@ -1,9 +1,7 @@
 var itsArray = function(favFood, favDrink, favMovie, favCharacter) {
-  alert(favFood);
-  alert(favDrink);
-  alert(favMovie);
-  alert(favCharacter);
 
+  var myArray = [favFood, favDrink, favMovie, favCharacter];
+  alert(myArray); 
 
 };
 
